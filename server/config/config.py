@@ -10,7 +10,7 @@ class Config(object):
             'version': '0.1',
             'description': '너나들이 API 명세서입니다.'
         },
-        'host': '52.78.227.70:5001',
+        'host': '52.78.227.70:5001 ',
         'basePath': '/api/',
     }
 
